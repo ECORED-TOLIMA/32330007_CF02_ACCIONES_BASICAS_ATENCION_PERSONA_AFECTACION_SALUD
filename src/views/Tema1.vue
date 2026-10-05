@@ -143,7 +143,7 @@
           img(src='@/assets/curso/temas/t1/img16.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c04.px-3.py-1
-          p.mb-0(data-aos="fade-down") Cuando el procedimiento confirma que la persona respira, queda por precisar cómo lo hace y con qué esfuerzo. Esa descripción es la que convierte una impresión general en información útil para el sistema de emergencias, y enlaza con los datos que se detallan enseguida.
+          p.mb-0(data-aos="fade-down") Cuando el procedimiento confirma que la persona respira, queda por precisar cómo lo hace y con qué esfuerzo. Esa descripción es la que convierte una impresión general en información útil para el sistema de emergencias y enlaza con los datos que se detallan enseguida.
     p.mb-4 La valoración de ambos signos se apoya en un número reducido de parámetros que se observan y se cuentan en pocos segundos, sin necesidad de equipos. Conocer qué indica cada uno evita confundir un hallazgo aislado con un deterioro real y orienta la conducta inmediata:
     .row.mb-4
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -468,7 +468,7 @@
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c02.px-3.py-3
           p.mb-0(data-aos="fade-down") En la atención inicial, la valoración del estado de conciencia se realiza mediante el método AVDI, que clasifica la respuesta del paciente según su nivel de interacción con el entorno (Ministerio de Salud y Protección Social, 2012). 
-    p.mb-4 Ese método ordena la respuesta de la persona en cuatro categorías sucesivas, que van desde la interacción normal con el entorno hasta la ausencia completa de reacción. Identificar en cuál se encuentra, y hacia cuál se desplaza, resume el estado neurológico en un dato fácil de comunicar:
+    p.mb-4 Ese método ordena la respuesta de la persona en cuatro categorías sucesivas, que van desde la interacción normal con el entorno hasta la ausencia completa de reacción. Identificar en cuál se encuentra y hacia cuál se desplaza resume el estado neurológico en un dato fácil de comunicar:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
         .tarjeta--container.row

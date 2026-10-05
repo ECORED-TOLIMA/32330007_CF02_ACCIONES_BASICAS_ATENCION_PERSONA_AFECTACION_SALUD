@@ -125,7 +125,7 @@
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c04.p-3
           p.mb-0(data-aos="fade-down") Durante una convulsión nadie sujeta a la persona ni le introduce nada en la boca. Se protege la cabeza, se cuenta el tiempo y, al terminar, se coloca de lado.
-    p Reconocer con precisión ambas condiciones, facilita aplicar intervenciones seguras y evitar prácticas inadecuadas que puedan agravar la situación. Diferenciar la convulsión del desmayo orienta la conducta en los primeros minutos en la atención inicial.
+    p Reconocer con precisión ambas condiciones facilita aplicar intervenciones seguras y evitar prácticas inadecuadas que puedan agravar la situación. Diferenciar la convulsión del desmayo orienta la conducta en los primeros minutos en la atención inicial.
     p.mb-0 El desmayo y la convulsión ceden por sí solos en pocos minutos. Otras urgencias no conceden ese margen y dejan secuelas permanentes cuando la atención tarda. La diferencia entre una recuperación completa y una discapacidad se juega en los primeros minutos, con el reconocimiento oportuno y la activación de la línea de emergencias.
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -292,7 +292,7 @@
             p La sustancia actúa sobre la piel o los ojos, como ácidos, herbicidas o solventes. Se retira la ropa contaminada con guantes, se lava la zona con abundante agua corriente durante al menos veinte minutos y no se aplican cremas ni neutralizantes. Situación habitual: un jornalero salpicado con plaguicida al preparar la mezcla en una finca de Líbano.
           .tarjeta.tarjeta-c06.p-4(titulo=" Inyección")
             p.mb-0 La sustancia entra por picadura, mordedura o aguja, como el veneno de serpientes, escorpiones o abejas. Se mantiene la zona en reposo y por debajo del corazón, se retiran anillos, no se aplica torniquete ni se corta ni se succiona la herida, y se traslada de inmediato. Situación habitual: una mordedura de serpiente en un cultivo de arroz en Saldaña.
-    p.mb-4 Las cuatro vías comparten tres reglas. Se protege primero el respondiente, se identifica la sustancia y se conserva el envase, y se comunica al sistema de emergencias el nombre del producto, la cantidad, la vía y la hora. Con esa información, el personal de salud puede consultar la línea de toxicología y definir el tratamiento antes de que la persona llegue al hospital.
+    p.mb-4 Las cuatro vías comparten tres reglas. Se protege primero al respondiente, se identifica la sustancia y se conserva el envase, y se comunica al sistema de emergencias el nombre del producto, la cantidad, la vía y la hora. Con esa información, el personal de salud puede consultar la línea de toxicología y definir el tratamiento antes de que la persona llegue al hospital.
     .row.justify-content-center.mb-4
       .col.col-12
         .cajon.cajon.c02.color-primario.p-4

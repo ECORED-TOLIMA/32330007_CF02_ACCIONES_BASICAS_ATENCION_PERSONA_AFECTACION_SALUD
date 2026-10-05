@@ -14,7 +14,7 @@
         p.mb-3 Valorar sin actuar deja el trabajo a medias. Las acciones que siguen a esa valoración buscan preservar la vida, evitar el deterioro de la persona afectada y favorecer su recuperación mientras llega la atención especializada. Las intervenciones se fundamentan en la valoración previa del paciente y deben ejecutarse sin demora, con seguridad y en orden.
         .cajon.cajon.c01.color-secundario.p-4.mb-3
           p.mb-0 El objetivo principal de las intervenciones en primeros auxilios es estabilizar al lesionado, controlando las condiciones que representan riesgo vital, como la obstrucción de la vía aérea, la dificultad respiratoria o las hemorragias. La estabilización se articula con el método ABCDE, el cual orienta la priorización de las acciones en función de la gravedad de la situación.
-        p.mb-0 El recorrido avanza desde la mirada general sobre lo que puede hacerse hasta el gesto preciso que detiene una pérdida de sangre. Cada apartado reduce la distancia entre saber qué hacer y saber cómo hacerlo, y señala hasta dónde llega la responsabilidad del primer respondiente. Cinco apartados lo componen, y avanzan de la clasificación de las acciones hasta la técnica que detiene el sangrado:
+        p.mb-0 El recorrido avanza desde la mirada general sobre lo que puede hacerse hasta el gesto preciso que detiene una pérdida de sangre. Cada apartado reduce la distancia entre saber qué hacer y saber cómo hacerlo, y señala hasta dónde llega la responsabilidad del primer respondiente. Cinco apartados lo componen y avanzan de la clasificación de las acciones hasta la técnica que detiene el sangrado:
     .row.mb-4
       .col-12
         .px-0.py-0
@@ -54,7 +54,7 @@
                       img(src="@/assets/curso/temas/t2/img07.svg", alt="").img100.m-auto
                   h4.text-center Técnicas de control de hemorragias externas
                   p.text-center La presión directa, el vendaje compresivo y el torniquete, en el orden en que se aplican y con las precauciones que exige cada una.
-    p Los cinco apartados se ordenan de lo general a lo particular. La clasificación y los procedimientos aportan el marco, mientras que las heridas y las hemorragias constituyen el problema más frecuente al que ese marco se aplica <b>En la práctica</b>.
+    p Los cinco apartados se ordenan de lo general a lo particular. La clasificación y los procedimientos aportan el marco, mientras que las heridas y las hemorragias constituyen el problema más frecuente al que ese marco se aplica en la práctica.
     p.mb-0 Antes de ejecutar cualquier maniobra conviene saber cuál corresponde y en qué momento, ya que no todas las acciones tienen la misma urgencia. Distinguir lo que se hace de inmediato de lo que puede esperar es la decisión que organiza el resto de la atención.
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -164,7 +164,7 @@
           .col.col-lg-10.col-12.order-lg-2.order-2
             .cajon.cajon.c04.px-3.py-3
               p.mb-0(data-aos="fade-down") Un procedimiento básico no cura, estabiliza. Su éxito no se mide por lo que resuelve, sino por lo que impide que empeore mientras llega la ayuda especializada.
-        p.mb-0 Aplicar estos procedimientos con bioseguridad y vigilancia constante forma parte de la técnica misma, y no es un añadido. Unos guantes, una barrera improvisada y una revisión periódica del estado de la persona sostienen el resultado de cada maniobra hasta que llegue la ayuda.
+        p.mb-0 Aplicar estos procedimientos con bioseguridad y vigilancia constante forma parte de la técnica misma y no es un añadido. Unos guantes, una barrera improvisada y una revisión periódica del estado de la persona sostienen el resultado de cada maniobra hasta que llegue la ayuda.
     p.mb-0 Entre esas maniobras, la que actúa sobre la piel abierta exige comprender antes qué ocurre cuando esa piel pierde su continuidad. El tipo de lesión determina el riesgo de sangrado y de infección, y con ello el cuidado que corresponde en cada caso.
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -252,7 +252,7 @@
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-8.col-12.order-lg-1.order-2
         .cajon.c03.px-4.py-3.h-100.w-100
-          p(data-aos="fade-down") La sangre que se pierde no se recupera en el lugar del incidente, y de ahí la urgencia de detenerla. Controlar el sangrado es una de las intervenciones prioritarias de la atención inicial, porque esa pérdida compromete la vida en pocos minutos. En este contexto, identificar y controlar a tiempo una hemorragia contribuyen a prevenir el desarrollo de estados de <em>shock</em> y otras complicaciones asociadas a la disminución del volumen sanguíneo.
+          p(data-aos="fade-down") La sangre que se pierde no se recupera en el lugar del incidente, y de ahí la urgencia de detenerla. Controlar el sangrado es una de las intervenciones prioritarias de la atención inicial, porque esa pérdida compromete la vida en pocos minutos. En este contexto, identificar y controlar a tiempo una hemorragia contribuye a prevenir el desarrollo de estados de <em>shock</em> y otras complicaciones asociadas a la disminución del volumen sanguíneo.
           .row.align-items-center.mb-0
             .col-lg-2.d-none.d-lg-block
               figure
@@ -297,14 +297,14 @@
             figure
               img(src="@/assets/curso/temas/t2/img25.svg", alt="alt").img80.m-auto
           h4.text-center Hemorragia externa
-          p La sangre sale al exterior a través de una herida, es fácil de identificar y requiere control inmediato para evitar pérdida excesiva de sangre. Son ejemplos los cortes y laceraciones, las raspaduras profundas, el sangrado nasal y las heridas penetrantes.
+          p La sangre sale al exterior a través de una herida; es fácil de identificar y requiere control inmediato para evitar pérdida excesiva de sangre. Son ejemplos los cortes y laceraciones, las raspaduras profundas, el sangrado nasal y las heridas penetrantes.
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-5
             figure
               img(src="@/assets/curso/temas/t2/img26.svg", alt="alt").img80.m-auto
           h4.text-center Hemorragia interna
-          p La sangre no sale al exterior y se acumula dentro del cuerpo, es difícil de identificar y tiene alto riesgo de complicaciones. Se sospecha tras golpes fuertes en cabeza, tórax, abdomen o muslo, ante fracturas de huesos largos y cuando aparecen signos de <em>shock</em> sin sangrado externo.
+          p La sangre no sale al exterior y se acumula dentro del cuerpo; es difícil de identificar y tiene alto riesgo de complicaciones. Se sospecha tras golpes fuertes en cabeza, tórax, abdomen o muslo, ante fracturas de huesos largos y cuando aparecen signos de <em>shock</em> sin sangrado externo.
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd01.crd--grayGrad
           .bottomCircle01.mb-5
@@ -403,7 +403,7 @@
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Torniquete
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Dispositivo que comprime completamente el flujo sanguíneo en una extremidad, con la hora de aplicación anotada.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Solo en hemorragias masivas de extremidades que amenazan la vida.
-    p La presión directa constituye la técnica más efectiva y debe aplicarse de forma inmediata, ya que hace posible controlar la mayoría de las hemorragias externas. Si el sangrado persiste, se pueden complementar otras medidas como la elevación del miembro afectado y el uso de vendajes compresivos, siempre evaluando la respuesta del paciente.
+    p La presión directa constituye la técnica más efectiva y debe aplicarse de forma inmediata, ya que hace posible controlar la mayoría de las hemorragias externas. Si el sangrado persiste, se puede complementar la presión directa con otras medidas como la elevación del miembro afectado y el uso de vendajes compresivos, siempre evaluando la respuesta del paciente.
     p.mb-4 La aplicación de la presión directa, por ser la técnica principal, se describe en los siguientes pasos:
     .cajon.cajon.c04.p-5.mb-4
       SlyderB(:datos="datosSlyder")
@@ -460,7 +460,7 @@ export default {
       {
         titulo: 'Vigilar y comunicar',
         texto:
-          'Se revisan el estado de conciencia, el pulso y la piel cada pocos minutos y se informa al 123 la cantidad aproximada de sangre perdida. Caso típico: «se empaparon tres gasas y un pañuelo, la persona está pálida pero responde».',
+          'Se revisan el estado de conciencia, el pulso y la piel cada pocos minutos y se informa al 123 la cantidad aproximada de sangre perdida. Caso típico: se empaparon tres gasas y un pañuelo, la persona está pálida pero responde.',
         imagen: '@/assets/curso/temas/t2/img39.png',
         // leyendaImagen: 'Leyenda_de_la_imagen',
       },

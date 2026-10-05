@@ -58,7 +58,7 @@
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-6
                       img(src="@/assets/curso/temas/t5/img08.svg", alt="").img100.m-auto
-                  h4.text-center Shock
+                  h4.text-center <em>Shock</em>
                   p.text-center La falla de la perfusión de los tejidos, con sus signos de hipovolemia, y las condiciones asociadas de hipotermia y anafilaxia que el primer respondiente debe prevenir y reconocer.
     p Los cinco apartados forman un ciclo. Se vigila, se reconocen los cambios, se informan, se prepara el traslado y, durante todo el proceso, se previene el <em>shock</em>, que es la vía común por la que cualquier lesión grave conduce a la muerte.
     p.mb-0 El ciclo empieza por distinguir qué cambios anuncian un deterioro, porque sin ese reconocimiento la vigilancia se convierte en una rutina sin consecuencia. Algunas señales aparecen incluso cuando los signos vitales todavía se mantienen dentro de rangos aceptables.
@@ -395,7 +395,7 @@
           p.mb-0 Todo lo descrito hasta aquí protege funciones concretas, la vía aérea, la circulación, la alineación del cuerpo. Sin embargo, existe un deterioro que avanza por debajo de todas ellas y que explica por qué una hemorragia, una quemadura o una reacción alérgica pueden terminar igual. Comprender ese mecanismo permite reconocer el momento en que el cuerpo empieza a perder la batalla, aunque la persona todavía hable y responda.
     separador
     #t_5_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 5.5 Shock: hipovolemia, hipotermia y anafilaxia
+      h2 5.5 <em>Shock</em>: hipovolemia, hipotermia y anafilaxia
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-3
         figure

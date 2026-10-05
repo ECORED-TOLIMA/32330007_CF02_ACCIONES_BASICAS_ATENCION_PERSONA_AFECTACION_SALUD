@@ -38,7 +38,7 @@
           .tarjeta-numerada__numero
             .h2 4
           h4.text-center  Inmovilización
-          p.text-center.mb-0 El concepto, los principios que la guían y las técnicas manuales y con elementos que estabilizan la zona lesionada hasta el traslado.
+          p.text-center.mb-0 El concepto, los principios que la guían y las técnicas manuales, y con elementos que estabilizan la zona lesionada hasta el traslado.
     p.mb-4 Los dos primeros apartados atienden lo que compromete la vida en minutos, y los dos últimos, lo que compromete la movilidad durante semanas. Ese contraste explica el orden en que se presentan y la urgencia distinta que exige cada uno.
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
@@ -74,7 +74,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         .cajon.cajon.c01.color-secundario.p-4
-          p.mb-0 La técnica se elige según la condición de la persona, y de esa elección depende evitar complicaciones. En pacientes sin trauma, la inclinación de la cabeza y elevación del mentón es suficiente para restablecer la vía aérea. Sin embargo, en situaciones donde se sospecha lesión cervical, se debe evitar la movilización del cuello y utilizar la tracción mandibular como medida más segura (American College of Surgeons, 2018).
+          p.mb-0 La técnica se elige según la condición de la persona y de esa elección depende evitar complicaciones. En pacientes sin trauma, la inclinación de la cabeza y elevación del mentón es suficiente para restablecer la vía aérea. Sin embargo, en situaciones donde se sospecha lesión cervical, se debe evitar la movilización del cuello y utilizar la tracción mandibular como medida más segura (American College of Surgeons, 2018).
     p.mb-4 Con la vía aérea permeable, la comprobación de la respiración define el paso siguiente. Si la persona no respira, se inicia la reanimación cardiopulmonar según la formación recibida, con compresiones torácicas en el centro del pecho. El ritmo es de cien a ciento veinte por minuto y la profundidad, de cinco a seis centímetros en el adulto. Ver la figura 2.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
