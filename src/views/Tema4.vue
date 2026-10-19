@@ -85,7 +85,7 @@
           figure.px-0.mb-0
             img(src='@/assets/curso/temas/t4/img08.png', alt='')
           .bg-c1.flex-grow-1.d-flex.flex-column.align-items-start
-            p.mb-0 El <b>desmayo</b> es una pérdida temporal de la conciencia causada por una disminución transitoria del flujo sanguíneo al cerebro. Generalmente es de corta duración y puede estar asociado a factores como fatiga, estrés, deshidratación o cambios bruscos de posición.
+            p.mb-0 El <b>desmayo</b> es una pérdida temporal de la conciencia causada por una disminución transitoria del flujo sanguíneo al cerebro. Generalmente, es de corta duración y puede estar asociado a factores como fatiga, estrés, deshidratación o cambios bruscos de posición.
     p.mb-4 Ambos episodios terminan con una persona en el suelo que no responde, pero difieren en su origen, en su duración y en lo que corresponde hacer mientras ocurren. Comparar sus signos y su manejo evita confundirlos y aplicar una conducta que no corresponde:
     .row.justify-content-center.aling-items-center.mb-4
       .col.col-lg-8.col-12.mb-md-0.order-lg-1.order-2
@@ -117,20 +117,20 @@
       .col.col-lg-4.col-6.col-md-6.col-8.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/t4/img10.png', alt='')
-    p.mb-4 La comparación deja en claro la diferencia central. En la convulsión se protege y se espera; en el desmayo se acuesta y se eleva. En ambos casos, lo que no se hace pesa tanto como lo que se hace. Las guías internacionales recomiendan activar el sistema de emergencias si la convulsión dura más de cinco minutos se repite o es la primera en la vida de la persona. Así lo señala la Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (2020).
+    p.mb-4 La comparación deja en claro la diferencia central. En la convulsión se protege y se espera; en el desmayo se acuesta y se eleva. En ambos casos, lo que no se hace pesa tanto como lo que se hace. Las guías internacionales recomiendan activar el sistema de emergencias si la convulsión dura más de cinco minutos, se repite o es la primera en la vida de la persona. Así lo señala la Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (2020).
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/t4/img11.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c04.p-3
-          p.mb-0(data-aos="fade-down") Durante una convulsión nadie sujeta a la persona ni le introduce nada en la boca. Se protege la cabeza, se cuenta el tiempo y, al terminar, se coloca de lado.
+          p.mb-0(data-aos="fade-down") Durante una convulsión, nadie sujeta a la persona ni le introduce nada en la boca. Se protege la cabeza, se cuenta el tiempo y, al terminar, se coloca de lado.
     p Reconocer con precisión ambas condiciones facilita aplicar intervenciones seguras y evitar prácticas inadecuadas que puedan agravar la situación. Diferenciar la convulsión del desmayo orienta la conducta en los primeros minutos en la atención inicial.
     p.mb-0 El desmayo y la convulsión ceden por sí solos en pocos minutos. Otras urgencias no conceden ese margen y dejan secuelas permanentes cuando la atención tarda. La diferencia entre una recuperación completa y una discapacidad se juega en los primeros minutos, con el reconocimiento oportuno y la activación de la línea de emergencias.
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Infarto y accidente cerebrovascular
-    p.mb-4 El corazón y el cerebro toleran muy poco tiempo sin riego sanguíneo. Cuando ese riego se interrumpe aparecen el infarto agudo de miocardio y el accidente cerebrovascular (ACV), que comprometen de manera directa la vida de la persona. Ambos requieren reconocimiento inmediato y activación urgente del sistema de emergencias, ya que el tiempo de intervención es un factor determinante en el pronóstico.
+    p.mb-4 El corazón y el cerebro toleran muy poco tiempo sin riego sanguíneo. Cuando ese riego se interrumpe, aparecen el infarto agudo de miocardio y el accidente cerebrovascular (ACV), que comprometen de manera directa la vida de la persona. Ambos requieren reconocimiento inmediato y activación urgente del sistema de emergencias, ya que el tiempo de intervención es un factor determinante en el pronóstico.
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require_src('@/assets/curso/temas/t4/img12.jpg')})`}"
@@ -177,7 +177,7 @@
                 td(data-aos="fade-down") Detectar deterioro e iniciar reanimación si deja de respirar.
                 td(data-aos="fade-down") Infarto y ACV.
     p En la tabla se precisa que el primer respondiente no trata el infarto ni el accidente cerebrovascular, sino que gana tiempo. El dato de la hora de inicio de los síntomas es decisivo, porque los tratamientos que disuelven el coágulo en el cerebro solo pueden aplicarse dentro de las primeras horas.
-    p.mb-4 Para reconocer el ACV en segundos se emplea la regla mnemotécnica FAST, formada por las iniciales de las palabras inglesas <em>face, arms, speech</em> y <em>time</em>, que corresponden a cara, brazos, habla y tiempo. La regla revisa cuatro señales en un orden fijo, cada una asociada a una función que el cerebro pierde cuando el riego se interrumpe, y basta con que una falle para activar el sistema de emergencias.
+    p.mb-4 Para reconocer el ACV en segundos, se emplea la regla mnemotécnica FAST, formada por las iniciales de las palabras inglesas <em>face, arms, speech</em> y <em>time</em>, que corresponden a cara, brazos, habla y tiempo. La regla revisa cuatro señales en un orden fijo, cada una asociada a una función que el cerebro pierde cuando el riego se interrumpe, y basta con que una falle para activar el sistema de emergencias.
     .row.justify-content-center.mb-4(data-aos="flip-down")
       .col-xl-3.col-lg-6.col-md-6.mb-4.mb-xl-0.d-flex
         .crd.crd--grayGrad.w-100

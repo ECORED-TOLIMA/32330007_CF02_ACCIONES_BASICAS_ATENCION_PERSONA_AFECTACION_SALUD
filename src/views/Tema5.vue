@@ -326,7 +326,7 @@
     .row.justify-content-center.mb-4
       .col.col-12
         .cajon.cajon.c01.color-secundario.px-4.py-3
-          p.mb-0 El traslado por medios propios es una decisión, no un reflejo. En la mayoría de las situaciones la mejor conducta consiste en esperar a la ambulancia, porque el personal que llega cuenta con equipos de inmovilización y con la posibilidad de iniciar tratamiento durante el recorrido. Mover a una persona lesionada sin esa capacidad convierte un trayecto corto en una fuente de daño adicional.
+          p.mb-0 El traslado por medios propios es una decisión, no un reflejo. En la mayoría de las situaciones, la mejor conducta consiste en esperar a la ambulancia, porque el personal que llega cuenta con equipos de inmovilización y con la posibilidad de iniciar tratamiento durante el recorrido. Mover a una persona lesionada sin esa capacidad convierte un trayecto corto en una fuente de daño adicional.
     p.mb-4 Cuando la espera deja de ser la opción más segura, la decisión se apoya en cuatro condiciones concretas de la escena, que se valoran juntas y no de manera aislada. Ninguna de ellas basta por sí sola para justificar el movimiento, aunque la combinación de dos o más suele inclinar la decisión. Las condiciones que orientan esa valoración son las siguientes:
     .desktop
       .row.mb-4

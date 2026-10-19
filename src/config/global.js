@@ -210,7 +210,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/32330007_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -301,6 +301,16 @@ export default {
       referencia:
         'Ministerio de Salud y Protección Social. (2017). Resolución 926 de 2017, por la cual se reglamenta el desarrollo y operación del Sistema de Emergencias Médicas. Ministerio de Salud y Protección Social.',
       link: 'https://www.minsalud.gov.co/Normatividad_Nuevo/Resolucion%20No.926%20de%202017.pdf',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Salud. (2016). Emergency care systems for universal health coverage: Ensuring timely access to care. OMS.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud. (2017). Emergency care: Systems and policies. OPS.',
+      link: '',
     },
   ],
   creditos: [

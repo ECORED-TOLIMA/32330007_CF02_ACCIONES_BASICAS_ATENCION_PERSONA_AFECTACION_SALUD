@@ -55,7 +55,7 @@
                   h4.text-center Técnicas de control de hemorragias externas
                   p.text-center La presión directa, el vendaje compresivo y el torniquete, en el orden en que se aplican y con las precauciones que exige cada una.
     p Los cinco apartados se ordenan de lo general a lo particular. La clasificación y los procedimientos aportan el marco, mientras que las heridas y las hemorragias constituyen el problema más frecuente al que ese marco se aplica en la práctica.
-    p.mb-0 Antes de ejecutar cualquier maniobra conviene saber cuál corresponde y en qué momento, ya que no todas las acciones tienen la misma urgencia. Distinguir lo que se hace de inmediato de lo que puede esperar es la decisión que organiza el resto de la atención.
+    p.mb-0 Antes de ejecutar cualquier maniobra, conviene saber cuál corresponde y en qué momento, ya que no todas las acciones tienen la misma urgencia. Distinguir lo que se hace de inmediato de lo que puede esperar es la decisión que organiza el resto de la atención.
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Tipos de intervención
@@ -245,7 +245,7 @@
           img(src='@/assets/curso/temas/t2/img22.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.c02.px-3.py-1
-          p.mb-0(data-aos="fade-down") Cuando la sangre sale en abundancia, la limpieza deja de ser la prioridad y el objetivo pasa a ser detener la pérdida. Para lograrlo conviene precisar de dónde proviene el sangrado y con qué rapidez avanza, porque no todas las hemorragias se comportan igual.
+          p.mb-0(data-aos="fade-down") Cuando la sangre sale en abundancia, la limpieza deja de ser la prioridad y el objetivo pasa a ser detener la pérdida. Para lograrlo, conviene precisar de dónde proviene el sangrado y con qué rapidez avanza, porque no todas las hemorragias se comportan igual.
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.4 Tipos de hemorragia
@@ -311,11 +311,11 @@
             figure
               img(src="@/assets/curso/temas/t2/img27.svg", alt="alt").img80.m-auto
           h4.text-center Riesgo principal compartido
-          p En ambas la pérdida o acumulación de sangre compromete la circulación y puede causar <em>shock</em>, fallo de órganos o la muerte. La externa se controla en la escena; la interna solo se detiene en un hospital, por lo que exige traslado inmediato.
+          p En ambas, la pérdida o acumulación de sangre compromete la circulación y puede causar <em>shock</em>, fallo de órganos o la muerte. La externa se controla en la escena; la interna solo se detiene en un hospital, por lo que exige traslado inmediato.
     .row.justify-content-center.mb-4
       .col.col-12
         .cajon.cajon.c02.color-primario.p-4
-          p.mb-0 La distinción tiene una consecuencia directa sobre la conducta. Frente a la hemorragia externa el primer respondiente puede hacer mucho; frente a la interna lo esencial es reconocerla. Se mantiene a la persona acostada y abrigada, no se le da nada por vía oral y se comunica la sospecha al sistema de emergencias para acelerar el traslado (American College of Surgeons, 2018).
+          p.mb-0 La distinción tiene una consecuencia directa sobre la conducta. Frente a la hemorragia externa, el primer respondiente puede hacer mucho; frente a la interna, lo esencial es reconocerla. Se mantiene a la persona acostada y abrigada, no se le da nada por vía oral y se comunica la sospecha al sistema de emergencias para acelerar el traslado (American College of Surgeons, 2018).
     p.mb-4 La identificación del tipo de hemorragia facilita priorizar la intervención, aplicar la técnica de control que corresponde y reconocer signos de alarma asociados a la pérdida de volumen sanguíneo. Clasificar correctamente el sangrado orienta la elección de las medidas de control y protege la vida durante la atención inicial.
     .row.justify-content-center.align-items-center.mb-4
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
@@ -407,7 +407,7 @@
     p.mb-4 La aplicación de la presión directa, por ser la técnica principal, se describe en los siguientes pasos:
     .cajon.cajon.c04.p-5.mb-4
       SlyderB(:datos="datosSlyder")
-    p.mb-4 Cuando la presión directa no controla una hemorragia masiva de una extremidad, las guías actuales recomiendan el torniquete. Se prefiere uno comercial, colocado entre cinco y siete centímetros por encima de la herida, nunca sobre una articulación, y ajustado hasta que el sangrado se detenga. Una vez colocado no se afloja, se anota la hora y se informa al personal de salud.
+    p.mb-4 Cuando la presión directa no controla una hemorragia masiva de una extremidad, las guías actuales recomiendan el torniquete. Se prefiere uno comercial, colocado entre cinco y siete centímetros por encima de la herida, nunca sobre una articulación, y ajustado hasta que el sangrado se detenga. Una vez colocado, no se afloja, se anota la hora y se informa al personal de salud.
     .row.justify-content-center.align-items-center.mb-0
       .col.col-lg-1.col-6.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
         figure

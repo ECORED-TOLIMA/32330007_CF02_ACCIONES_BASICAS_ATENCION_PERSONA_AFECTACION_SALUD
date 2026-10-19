@@ -77,7 +77,7 @@
       .col.col-lg-7.col-12.order-lg-2.order-2
         .cajon.cajon.c01.color-secundario.p-4
           p.mb-0 La medición del pulso se realiza mediante la palpación de arterias superficiales, seleccionando el sitio de acuerdo con la condición del lesionado. La arteria radial es la más utilizada en personas conscientes, mientras que la arteria carótida se emplea en situaciones de compromiso vital, ya que proporciona una valoración más confiable en casos de baja perfusión (Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja, 2025).
-        p.mb-0 Durante la evaluación, el pulso debe analizarse de manera integral considerando la frecuencia, el ritmo y la intensidad. La alteración de estos parámetros puede evidenciar estados de deterioro del funcionamiento del organismo que requieren intervención inmediata.
+        p.mb-0 Durante la evaluación, el pulso debe analizarse de manera integral, considerando la frecuencia, el ritmo y la intensidad. La alteración de estos parámetros puede evidenciar estados de deterioro del funcionamiento del organismo que requieren intervención inmediata.
     p.mb-4 Un valor fuera de rango no siempre indica una condición crítica, porque el cuerpo ajusta el latido y la respiración a lo que ocurre alrededor. Distinguir esos ajustes normales de una alteración verdadera evita alarmas innecesarias y decisiones apresuradas sobre el traslado:
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
       .col-lg-6.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0
@@ -335,7 +335,7 @@
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3 Secuencia de evaluación y valoración cefalocaudal
-    p.mb-4 Al llegar junto a una persona lesionada, el orden en que se hacen las cosas decide qué se encuentra y qué se pasa por alto. Por esa razón la revisión se organiza como un proceso que identifica, de manera rápida y sistemática, las condiciones que pueden comprometer la vida. La revisión ordenada contribuye a establecer prioridades de atención, orientar la intervención y tomar decisiones en el momento en que el estado del paciente lo exige.
+    p.mb-4 Al llegar junto a una persona lesionada, el orden en que se hacen las cosas decide qué se encuentra y qué se pasa por alto. Por esa razón, la revisión se organiza como un proceso que identifica, de manera rápida y sistemática, las condiciones que pueden comprometer la vida. La revisión ordenada contribuye a establecer prioridades de atención, orientar la intervención y tomar decisiones en el momento en que el estado del paciente lo exige.
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
         figure
@@ -354,7 +354,7 @@
                 img(src='@/assets/curso/temas/t1/img34.svg', alt='')
             .col-lg-10.mb-4.mb-lg-0
               h4 Seguridad en la escena
-              p Antes de tocar a la persona se revisa el entorno en busca de tránsito, fuego, cables, sustancias o estructuras inestables, y se usan guantes y mascarilla. En el lugar: quien llega a un choque en la vía Ibagué-Girardot ubica primero su vehículo y las señales, y solo después se acerca.
+              p Antes de tocar a la persona, se revisa el entorno en busca de tránsito, fuego, cables, sustancias o estructuras inestables, y se usan guantes y mascarilla. En el lugar: quien llega a un choque en la vía Ibagué-Girardot ubica primero su vehículo y las señales, y solo después se acerca.
           .row(titulo="2")
             .col-lg-2
               figure

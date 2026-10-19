@@ -153,7 +153,7 @@
     .row.justify-content-center.mb-4
       .col.col-12
         .cajon.cajon.c01.color-secundario.p-4
-          p.mb-0 Conviene mantener una vigilancia continua del lesionado una vez aplicada la posición, observando los cambios en la respiración, en el estado de conciencia o la aparición de nuevos signos de riesgo. Ante cualquier deterioro se ajustan las acciones y se activa el sistema de emergencias de manera inmediata.
+          p.mb-0 Conviene mantener una vigilancia continua del lesionado una vez aplicada la posición, observando los cambios en la respiración, en el estado de conciencia o la aparición de nuevos signos de riesgo. Ante cualquier deterioro, se ajustan las acciones y se activa el sistema de emergencias de manera inmediata.
     p.mb-4 La protección de las condiciones ambientales completa el cuidado de la persona que espera el traslado. Una persona lesionada pierde calor con rapidez, en especial si está sobre el suelo, mojada o en estado de <em>shock</em>, y la hipotermia empeora el sangrado y el pronóstico (American College of Surgeons, 2018). En clima cálido, el sol directo y la deshidratación agravan cualquier condición. Las medidas que protegen a la persona del frío y del calor se resumen enseguida:
     .row.mb-4
       .col-12
